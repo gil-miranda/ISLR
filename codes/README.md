@@ -5,13 +5,3 @@ O já consagrado livro Introduction to Statistical Learning (James, Witten, Hast
 
 Os notebooks gerados como resumos, códigos e exercícios resolvidos tem o objetivo de estudo dos assuntos os quais o livro trata.
 O livro é disponibilizado gratuitamente pelos autores em: https://www.statlearning.com/
-
----
-
-## Estrutura do repositório
-
-> summaries: Pasta com resumos, anotações e explorações sobre os assuntos tratados no livro, separados por cápitulos e assunto
-> codes: Pasta com códigos de algoritmos, experimentações e implementações de problemas tratados no livro
-> exercises: Pasta com exercícios (teóricos e práticos) resolvidos
-
-obs.: Muito provavelmente o conteúdo de códigos e exercícios será feito todo em Inglês, enquanto o resumo darei preferência para Português
