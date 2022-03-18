@@ -1,0 +1,11 @@
+## Project dependencies
+pre-commit
+pre-commit-hooks
+nbmake
+nbqa
+## Development dependencies
+notebook
+numpy
+pandas
+matplotlib
+seaborn
