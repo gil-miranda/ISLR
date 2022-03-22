@@ -17,5 +17,6 @@ O livro é disponibilizado gratuitamente pelos autores em: https://www.statlearn
 obs.: Muito provavelmente o conteúdo de códigos e exercícios será feito todo em Inglês, enquanto o resumo darei preferência para Português
 
 ## Como usar
+Primeiro, crie um ambiente novo para o projeto, e rode o comando:
 
     make requirements
